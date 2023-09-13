@@ -41,7 +41,7 @@ const BlogPostPage: NextPage<BlogPostPageProps> = ({ blogPost }) => {
               className="rounded-full"
             />
           </div>
-          <p>Anish De</p>
+          <p>Dhanraj Priyadarshi</p>
           <span aria-hidden>/</span>
           <p>{blogPost.date}</p>
         </div>

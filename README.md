@@ -4,7 +4,7 @@
 
 #### A Portfolio Starter to create your own beautiful portfolio site powered by Spheron.
 
-This beautiful portfolio starter kit which contains all the required tools to make you look awesome is forked from [AnishDe12020/portfolio](https://github.com/AnishDe12020/portfolio) which is created by Anish De – [anishde.dev](https://anishde.dev). Bit shoutout to him!!!
+This beautiful portfolio starter kit which contains all the required tools to make you look awesome is forked from [AnishDe12020/portfolio](https://github.com/AnishDe12020/portfolio) which is created by Dhanraj Priyadarshi – [anishde.dev](https://anishde.dev). Bit shoutout to him!!!
 
 Just click on Use this template button, add the content, deploy on Spheron to make it immutable. And that's it!
 

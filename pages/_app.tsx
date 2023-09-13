@@ -34,7 +34,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
         <DefaultSeo {...SEO} />
         <SocialProfileJsonLd
           type="Person"
-          name="Anish De"
+          name="Dhanraj Priyadarshi"
           url="https://anishde.dev/"
           sameAs={[
             "https://twitter.com/AnishDe12020",

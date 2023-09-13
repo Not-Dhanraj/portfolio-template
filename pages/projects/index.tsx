@@ -22,8 +22,8 @@ const ProjectsPage: NextPage<ProjectsPageProps> = ({
   return (
     <>
       <NextSeo
-        title="Projects | Anish De"
-        description="Projects worked upon by Anish De"
+        title="Projects | Dhanraj Priyadarshi"
+        description="Projects worked upon by Dhanraj Priyadarshi"
       />
       <h1 className="mb-8 text-2xl font-bold">Projects</h1>
       <div className="flex-col space-y-8">
